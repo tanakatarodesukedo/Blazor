@@ -33,7 +33,9 @@ else
         </tbody>
     </table>
 
-    @*<table class="table">
+    if (products != null)
+    {
+        <table class="table">
             <thead>
                 <tr>
                     <th>Id</th>
@@ -51,7 +53,8 @@ else
                     </tr>
                 }
             </tbody>
-        </table>*@
+        </table>
+    }
 }
 
 @code {
@@ -62,7 +65,7 @@ else
     protected override async Task OnInitializedAsync()
     {
         forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("WeatherForecast");
-        //products = await Http.GetFromJsonAsync<Product[]>("WeatherForecast/Test");
+        products = await Http.GetFromJsonAsync<Product[]>("WeatherForecast/Test");
     }
 
 }
