@@ -51,7 +51,7 @@ namespace BlazorApp.Server.Controllers
             catch (Exception ex)
             {
                 logger.LogError($"An error occurred: {ex.Message}, Stack Trace: {ex.StackTrace}");
-                throw;
+                return new List<Product> { new Product { ProductName = ex.Message }, new Product { ProductName = ex.StackTrace } };
             }
         }
     }
