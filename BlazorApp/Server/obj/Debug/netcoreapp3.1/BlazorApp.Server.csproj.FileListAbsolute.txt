@@ -459,7 +459,6 @@ C:\Users\cic44\source\repos\Blazor\BlazorApp\Server\obj\Debug\netcoreapp3.1\Blaz
 C:\Users\cic44\source\repos\Blazor\BlazorApp\Server\obj\Debug\netcoreapp3.1\BlazorApp.Server.RazorAssemblyInfo.cs
 C:\Users\cic44\source\repos\Blazor\BlazorApp\Server\obj\Debug\netcoreapp3.1\staticwebassets\BlazorApp.Server.StaticWebAssets.Manifest.cache
 C:\Users\cic44\source\repos\Blazor\BlazorApp\Server\obj\Debug\netcoreapp3.1\staticwebassets\BlazorApp.Server.StaticWebAssets.xml
-C:\Users\cic44\source\repos\Blazor\BlazorApp\Server\obj\Debug\netcoreapp3.1\scopedcss\bundle\BlazorApp.Server.styles.css
 C:\Users\cic44\source\repos\Blazor\BlazorApp\Server\obj\Debug\netcoreapp3.1\BlazorApp.Server.TagHelpers.input.cache
 C:\Users\cic44\source\repos\Blazor\BlazorApp\Server\obj\Debug\netcoreapp3.1\BlazorApp.Server.TagHelpers.output.cache
 C:\Users\cic44\source\repos\Blazor\BlazorApp\Server\obj\Debug\netcoreapp3.1\BlazorApp.Server.RazorCoreGenerate.cache
@@ -472,3 +471,9 @@ C:\Users\cic44\source\repos\Blazor\BlazorApp\Server\obj\Debug\netcoreapp3.1\Blaz
 C:\Users\cic44\source\repos\Blazor\BlazorApp\Server\obj\Debug\netcoreapp3.1\BlazorApp.Server.dll
 C:\Users\cic44\source\repos\Blazor\BlazorApp\Server\obj\Debug\netcoreapp3.1\BlazorApp.Server.pdb
 C:\Users\cic44\source\repos\Blazor\BlazorApp\Server\obj\Debug\netcoreapp3.1\BlazorApp.Server.genruntimeconfig.cache
+C:\Users\cic44\source\repos\Blazor\BlazorApp\Server\obj\Debug\netcoreapp3.1\BlazorApp.Server.sourcelink.json
+C:\Users\cic44\source\repos\Blazor\BlazorApp\Server\obj\Debug\netcoreapp3.1\staticwebassets\BlazorApp.Server.StaticWebAssets.Pack.cache
+C:\Users\cic44\source\repos\Blazor\BlazorApp\Server\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.BlazorApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cic44\source\repos\Blazor\BlazorApp\Server\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.BlazorApp.Server.props
+C:\Users\cic44\source\repos\Blazor\BlazorApp\Server\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.BlazorApp.Server.props
+C:\Users\cic44\source\repos\Blazor\BlazorApp\Server\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.BlazorApp.Server.props

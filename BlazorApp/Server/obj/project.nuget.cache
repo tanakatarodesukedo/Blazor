@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BPqBArfapcMZ+vjUaURf76XLxFj0FdbJZ7PFZnkoP+YLo9u+7t8CvkcDJyLz+f3VskbNCN8QNWD3aGh9vn5nhA==",
+  "dgSpecHash": "227K6ZJF2BzFfPb2ovwEfv1KrhKUMZ/T+xp/EoRrhIyPl2mRKdu91udCSOVRUks69gds6vczC3xdYOIJIr2+Wg==",
   "success": true,
   "projectFilePath": "C:\\Users\\cic44\\source\\repos\\Blazor\\BlazorApp\\Server\\BlazorApp.Server.csproj",
   "expectedPackageFiles": [

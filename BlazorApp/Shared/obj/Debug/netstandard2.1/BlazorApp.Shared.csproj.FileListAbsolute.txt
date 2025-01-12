@@ -17,3 +17,4 @@ C:\Users\cic44\source\repos\Blazor\BlazorApp\Shared\obj\Debug\netstandard2.1\Bla
 C:\Users\cic44\source\repos\Blazor\BlazorApp\Shared\obj\Debug\netstandard2.1\BlazorApp.Shared.csproj.CoreCompileInputs.cache
 C:\Users\cic44\source\repos\Blazor\BlazorApp\Shared\obj\Debug\netstandard2.1\BlazorApp.Shared.dll
 C:\Users\cic44\source\repos\Blazor\BlazorApp\Shared\obj\Debug\netstandard2.1\BlazorApp.Shared.pdb
+C:\Users\cic44\source\repos\Blazor\BlazorApp\Shared\obj\Debug\netstandard2.1\BlazorApp.Shared.sourcelink.json
