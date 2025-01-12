@@ -33,25 +33,25 @@ else
         </tbody>
     </table>
 
-    <table class="table">
-        <thead>
-            <tr>
-                <th>Id</th>
-                <th>Name</th>
-                <th>Price</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var product in products)
-            {
+    @*<table class="table">
+            <thead>
                 <tr>
-                    <td>@product.ProductID</td>
-                    <td>@product.ProductName</td>
-                    <td>@product.Price</td>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Price</th>
                 </tr>
-            }
-        </tbody>
-    </table>
+            </thead>
+            <tbody>
+                @foreach (var product in products)
+                {
+                    <tr>
+                        <td>@product.ProductID</td>
+                        <td>@product.ProductName</td>
+                        <td>@product.Price</td>
+                    </tr>
+                }
+            </tbody>
+        </table>*@
 }
 
 @code {
@@ -62,7 +62,7 @@ else
     protected override async Task OnInitializedAsync()
     {
         forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("WeatherForecast");
-        products = await Http.GetFromJsonAsync<Product[]>("WeatherForecast/Test");
+        //products = await Http.GetFromJsonAsync<Product[]>("WeatherForecast/Test");
     }
 
 }

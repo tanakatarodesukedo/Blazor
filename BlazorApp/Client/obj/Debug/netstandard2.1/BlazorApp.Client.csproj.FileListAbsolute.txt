@@ -743,8 +743,8 @@ C:\Users\cic44\source\repos\Blazor\BlazorApp\Client\obj\Debug\netstandard2.1\Bla
 C:\Users\cic44\source\repos\Blazor\BlazorApp\Client\obj\Debug\netstandard2.1\BlazorApp.Client.csproj.CopyComplete
 C:\Users\cic44\source\repos\Blazor\BlazorApp\Client\obj\Debug\netstandard2.1\BlazorApp.Client.dll
 C:\Users\cic44\source\repos\Blazor\BlazorApp\Client\obj\Debug\netstandard2.1\BlazorApp.Client.pdb
-C:\Users\cic44\source\repos\Blazor\BlazorApp\Client\obj\Debug\netstandard2.1\integrity\5Vysef7egcDh0c5NxtoHJabL1qloMNt_6v4qffr116A=.hash
 C:\Users\cic44\source\repos\Blazor\BlazorApp\Client\obj\Debug\netstandard2.1\integrity\7nAJX4yAB1192Yzk7gSjsIirGwpTmREgZ0SihiIuapk=.hash
-C:\Users\cic44\source\repos\Blazor\BlazorApp\Client\obj\Debug\netstandard2.1\integrity\OxbZeXyj5ilehzm7SAiX-ngsk4oVUKL_WIV7GwQvNLM=.hash
 C:\Users\cic44\source\repos\Blazor\BlazorApp\Client\obj\Debug\netstandard2.1\integrity\GZWUoCVPV0DkHVTIprDMAVJj-JuRPsiVsQe0WvFF2q8=.hash
-C:\Users\cic44\source\repos\Blazor\BlazorApp\Client\obj\Debug\netstandard2.1\integrity\bRpkgw9EEimWcOGse2XHxRW-0hC-Lf7gRioc9pEzrHY=.hash
+C:\Users\cic44\source\repos\Blazor\BlazorApp\Client\obj\Debug\netstandard2.1\integrity\A8d83UIstxNO3XMPj3-9lfalMgfka4iTd4Sx8eaAiFM=.hash
+C:\Users\cic44\source\repos\Blazor\BlazorApp\Client\obj\Debug\netstandard2.1\integrity\yIyCNRaiTuVXiNPYNMJwbkE7O8bM_yLv2XBTdxXCYOs=.hash
+C:\Users\cic44\source\repos\Blazor\BlazorApp\Client\obj\Debug\netstandard2.1\integrity\DPiQEU7OH5RXdWm980RLTy7oWgPkpLaylsHTgcRaRM0=.hash
