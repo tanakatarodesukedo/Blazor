@@ -44,7 +44,15 @@ namespace BlazorApp.Server.Controllers
         [HttpGet("Test")]
         public IEnumerable<Product> GetTest()
         {
-            return _dataService.GetProducts();
+            try
+            {
+                return _dataService.GetProducts();
+            }
+            catch (Exception ex)
+            {
+                logger.LogError($"An error occurred: {ex.Message}, Stack Trace: {ex.StackTrace}");
+                throw;
+            }
         }
     }
 }
