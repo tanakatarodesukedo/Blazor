@@ -745,6 +745,6 @@ C:\Users\cic44\source\repos\Blazor\BlazorApp\Client\obj\Debug\netstandard2.1\Bla
 C:\Users\cic44\source\repos\Blazor\BlazorApp\Client\obj\Debug\netstandard2.1\BlazorApp.Client.pdb
 C:\Users\cic44\source\repos\Blazor\BlazorApp\Client\obj\Debug\netstandard2.1\integrity\7nAJX4yAB1192Yzk7gSjsIirGwpTmREgZ0SihiIuapk=.hash
 C:\Users\cic44\source\repos\Blazor\BlazorApp\Client\obj\Debug\netstandard2.1\integrity\GZWUoCVPV0DkHVTIprDMAVJj-JuRPsiVsQe0WvFF2q8=.hash
-C:\Users\cic44\source\repos\Blazor\BlazorApp\Client\obj\Debug\netstandard2.1\integrity\A8d83UIstxNO3XMPj3-9lfalMgfka4iTd4Sx8eaAiFM=.hash
-C:\Users\cic44\source\repos\Blazor\BlazorApp\Client\obj\Debug\netstandard2.1\integrity\yIyCNRaiTuVXiNPYNMJwbkE7O8bM_yLv2XBTdxXCYOs=.hash
-C:\Users\cic44\source\repos\Blazor\BlazorApp\Client\obj\Debug\netstandard2.1\integrity\DPiQEU7OH5RXdWm980RLTy7oWgPkpLaylsHTgcRaRM0=.hash
+C:\Users\cic44\source\repos\Blazor\BlazorApp\Client\obj\Debug\netstandard2.1\integrity\AMS_kLX6JeA7uSQQrakPzkOX5fE9TorcW9b2fH0CHKo=.hash
+C:\Users\cic44\source\repos\Blazor\BlazorApp\Client\obj\Debug\netstandard2.1\integrity\fqxRy6W9s_wpu3kEbYW8S2J2AX95IdTx-vSPU6Jj3DA=.hash
+C:\Users\cic44\source\repos\Blazor\BlazorApp\Client\obj\Debug\netstandard2.1\integrity\QFwZ7kiRYF4AbI4cn0E6saevzFbX7g3YdY1VHX51bC4=.hash

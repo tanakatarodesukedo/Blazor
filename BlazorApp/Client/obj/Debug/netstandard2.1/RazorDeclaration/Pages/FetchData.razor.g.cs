@@ -100,7 +100,7 @@ using BlazorApp.Shared;
     protected override async Task OnInitializedAsync()
     {
         forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("WeatherForecast");
-        products = await Http.GetFromJsonAsync<Product[]>("WeatherForecast/Test");
+        //products = await Http.GetFromJsonAsync<Product[]>("WeatherForecast/Test");
     }
 
 
